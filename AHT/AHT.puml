@@ -1,0 +1,42 @@
+@startuml AHT
+
+start
+
+:Usuário entra no site;
+:Landing Page;
+
+if (Seleciona o Menu) then (PKZ)
+  :Home Page - PKZ;
+  :Imagem de Impacto;
+  :Breve Descrição;
+  :Links;
+  split
+    :Sobre Nós;
+  split again
+    :Nossa História;
+  split again
+    :Contate-nos;
+  end split
+  :Páginas de explicação;
+
+else (One to One)
+  :Home Page - O2O;
+  :Imagem de Impacto;
+  :Breve Descrição;
+  :Links;
+  split 
+    :Sobre Nós;
+  split again
+    :Nossa História;
+  split again
+    :Contate-nos;
+  end split
+  :Páginas de explicação;
+
+endif
+
+:Site explorado;
+
+stop
+
+@enduml
