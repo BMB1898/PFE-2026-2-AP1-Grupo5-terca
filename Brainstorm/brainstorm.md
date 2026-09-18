@@ -34,9 +34,9 @@ Landing page (Página Principal):
 Apresentação da marca geral com scroll para baixo que leva a uma divisão dos serviços disponíveis para escolha.
 
 Home page A (PKZ): 
-Foco em metodologia científica, corpo técnico, infraestrutura e conquistas. Explicação mais aprofundada do serviço e informações adicionais. Atributos do cliente que usa os serviços da PKZ em um "Radar Chart" como uma forma descontraída e mais intuitiva de compreensão.
+Foco em metodologia científica, corpo técnico, infraestrutura e conquistas. Explicação mais aprofundada do serviço e informações adicionais. Atributos do cliente que usa os serviços da PKZ em um "Radar Chart" como uma forma mais descontraída e intuitiva de compreensão.
 
 Home page B (One to One): 
-Foco em qualidade de vida, comunidade, flexibilidade de horários e depoimentos realistas. Explicação mais aprofundada do serviço e informações adicionais. Atributos do cliente que usa os serviços da PKZ em um "Radar Chart" como uma forma descontraída e mais intuitiva de compreensão.
+Foco em qualidade de vida, comunidade, flexibilidade de horários e depoimentos realistas. Explicação mais aprofundada do serviço e informações adicionais. Atributos do cliente que usa os serviços da PKZ em um "Radar Chart" como uma forma mais descontraída e intuitiva de compreensão.
 
 Contato: Número de telefone, e-mail, redes sociais.
