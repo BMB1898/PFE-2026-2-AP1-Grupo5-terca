@@ -17,9 +17,8 @@ Sem rotas claras de navegação, o visitante não identifica rapidamente qual se
 
 # Geração de ideias
 ## Arquitetura do site
-### Portal Dual-Branch: 
-Landing page com divisão visual clara (Split Screen): PKZ de um lado e One to One do 
-outro.
+### Página principal: 
+Landing page com apresentação clara e simples da empresa de forma geral. Rolando o scroll para baixo, há um divisão visual clara: PKZ de um lado e One to One do outro.
 
 ### Páginas de Destino Dedicadas:
 Homepages isoladas com estética e tom de voz específicos para cada público.
@@ -31,12 +30,13 @@ Subpáginas relacionadas a história da empresa, especificações de cada servi�
 Filtrando as melhores ideias para criar uma solução escalável, de alta conversão e fácil manutenção.
 
 ## Arquitetura do Site Recomendada
-Landing page (Página Principal): Apresentação da marca unificada com Hero Split-Screen imediato para bifurcação do tráfego.
+Landing page (Página Principal): 
+Apresentação da marca geral com scroll para baixo que leva a uma divisão dos serviços disponíveis para escolha.
 
-Home page A (PKZ): Foco em metodologia científica, corpo técnico, infraestrutura e conquistas.
+Home page A (PKZ): 
+Foco em metodologia científica, corpo técnico, infraestrutura e conquistas. Explicação mais aprofundada do serviço e informações adicionais. Atributos do cliente que usa os serviços da PKZ em um "Radar Chart" como uma forma descontraída e mais intuitiva de compreensão.
 
-Home page B (One to One): Foco em qualidade de vida, comunidade, flexibilidade de horários e depoimentos realistas.
-
-Sobre a Organização: História, missão e validação da equipe multidisciplinar.
+Home page B (One to One): 
+Foco em qualidade de vida, comunidade, flexibilidade de horários e depoimentos realistas. Explicação mais aprofundada do serviço e informações adicionais. Atributos do cliente que usa os serviços da PKZ em um "Radar Chart" como uma forma descontraída e mais intuitiva de compreensão.
 
 Contato: Número de telefone, e-mail, redes sociais.
