@@ -5,33 +5,72 @@ start
 :Usuário entra no site;
 :Landing Page;
 
-if (Seleciona o Menu) then (PKZ)
-  :Home Page - PKZ;
-  :Imagem de Impacto;
-  :Breve Descrição;
-  :Links;
+if (Seleciona o Menu) then (One to One)
+  :Home Page - One to One;
+  :Hero - "Treinamento individualizado";
+  :Diferenciais do serviço;
   split
-    :Sobre Nós;
+    :Quem vai treinar com você;
   split again
-    :Nossa História;
+    :Depoimentos de alunos;
   split again
-    :Contate-nos;
+    :FAQ - Tire suas dúvidas;
   end split
-  :Páginas de explicação;
+  :CTA - Agendar experimental;
 
-else (One to One)
-  :Home Page - O2O;
-  :Imagem de Impacto;
-  :Breve Descrição;
-  :Links;
-  split 
-    :Sobre Nós;
+elseif (PKZ)
+  :Home Page - PKZ Playmakerz;
+  :Hero - "Alto rendimento em rápida evolução";
+  :Diferenciais do serviço;
+  split
+    :Pacote com curva de evolução por atleta;
   split again
-    :Nossa História;
+    :Quem conduz os treinos;
   split again
-    :Contate-nos;
+    :FAQ - Dúvidas frequentes;
   end split
-  :Páginas de explicação;
+  :CTA - Agendar experimental;
+
+elseif (Planos)
+  :Planos e Pacotes;
+  split
+    :Essencial;
+  split again
+    :Completo (mais escolhido);
+  split again
+    :Performance;
+  end split
+  :CTA - Comece por uma aula experimental;
+
+elseif (Agendar)
+  :Agende sua Visita;
+  :Seleciona a marca;
+  if (Marca) then (One-to-One)
+    :Formulário One-to-One;
+  else (PKZ)
+    :Formulário PKZ;
+  endif
+  :Preenche nome, WhatsApp e melhor período;
+  :Solicita aula experimental;
+  :Lead recebido pela equipe;
+
+elseif (Cadastro)
+  :Criar Cadastro;
+  :Preenche nome, e-mail, WhatsApp e senha;
+  :Autoriza uso de imagem;
+  :Cria conta;
+
+else (Portal)
+  :Tela de Login;
+  if (Perfil do usuário) then (Aluno adulto)
+    :Login - Portal Adulto;
+    :Acessa Portal Adulto;
+    :Autonomia total - agendamento e evolução;
+  else (Atleta PKZ)
+    :Login - Portal Atleta;
+    :Acessa Portal Atleta;
+    :Autonomia total - agendamento e evolução;
+  endif
 
 endif
 
