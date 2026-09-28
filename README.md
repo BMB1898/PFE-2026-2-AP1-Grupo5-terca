@@ -32,3 +32,41 @@ Um site com rotas separadas para cada público, identidade visual própria para 
 | **Cadastro** | Criação de conta unificada, com aceite de uso de imagem |
 | **Portal** | Login segmentado em Portal Aluno (adulto) e Portal Atleta |
 | **Contato** | Telefone, e-mail e redes sociais |
+
+
+## 🖼️ Protótipo
+
+Protótipo completo no Figma: [Protótipo PKZ / One to One](https://www.figma.com/design/pnShzjmEQY8olJnvl5Vf3R/Prot%C3%B3tipo-PKZ-One-to-One?node-id=0-1&t=1Yf0yie3bvgGDxpP-1)
+
+
+<details>
+<summary>Ver telas</summary>
+
+
+| Landing page | PKZ | One to One |
+| --- | --- | --- |
+| ![Landing page](Prototipo/Paginas/Landing%20page%20(1).png) | ![PKZ](Prototipo/Paginas/PKZ.png) | ![One to One](Prototipo/Paginas/One%20to%20One.png) |
+
+
+| Planos | Agendamento | Cadastro |
+| --- | --- | --- |
+| ![Planos](Prototipo/Paginas/Planos.png) | ![Agendamento](Prototipo/Paginas/Agendamento.png) | ![Cadastro](Prototipo/Paginas/Cadastro.png) |
+
+
+| Portal – Aluno | Portal – Atleta |
+| --- | --- |
+| ![Portal Aluno](Prototipo/Paginas/Portal%20-%20Aluno.png) | ![Portal Atleta](Prototipo/Paginas/Portal%20-%20Atleta.png) |
+
+
+</details>
+
+
+## 📂 Estrutura do repositório
+
+
+```
+├── 5w2h/          # Planejamento 5W2H do projeto
+├── AHT/           # Árvore hierárquica de tarefas (PlantUML + imagem)
+├── Brainstorm/    # Definição do problema, geração de ideias e proposta final
+├── Doc_visao/     # Documento de visão
+├── Mindmap/       # Mapa mental do projeto
