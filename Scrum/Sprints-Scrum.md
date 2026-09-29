@@ -4,7 +4,7 @@
 >
 > **Premissas:**
 > - **Sprints semanais.** Os commits se concentram em quatro semanas de setembro/2026, então cada semana virou uma Sprint.
-> - **Papéis de Scrum.** O repositório não diz quem era PO ou Scrum Master, então esses papéis não foram atribuídos. Os responsáveis citados são os autores dos commits.
+> - **Papéis de Scrum.** Scrum Master: Bernardo Machado Borghetti.
 > - **Pontos de estória.** O histórico não tem estimativas, então as métricas contam só commits e arquivos.
 
 ---
@@ -216,9 +216,3 @@ Maior Sprint em volume de entregas. O projeto passou da fase de documentação p
 | 2 | 08 a 14/09 | Planejamento (5W2H, AHT, Visão, Brainstorm) | 5 | 5 |
 | 3 | 15 a 21/09 | Refinamento | 3 | 2 |
 | 4 | 22 a 28/09 | Consolidação, protótipo, README e reuniões | 16 | 4 |
-
-### ➡️ Próxima Sprint sugerida (Sprint 5)
-
-- Começar a codificação em HTML/CSS pela Landing Page e pelas Homes PKZ e One to One.
-- Usar o protótipo do Figma e o `Resumo.md` como referência.
-- Atualizar o Documento de Visão.
