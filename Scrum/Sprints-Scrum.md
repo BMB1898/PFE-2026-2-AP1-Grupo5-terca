@@ -6,7 +6,6 @@
 > - **Sprints semanais.** Os commits se concentram em quatro semanas de setembro/2026, então cada semana virou uma Sprint.
 > - **Papéis de Scrum.** O repositório não diz quem era PO ou Scrum Master, então esses papéis não foram atribuídos. Os responsáveis citados são os autores dos commits.
 > - **Pontos de estória.** O histórico não tem estimativas, então as métricas contam só commits e arquivos.
-> - **Autores.** "BMB1898" e "BernardoBorghetti" aparecem como autores separados no Git e foram mantidos assim.
 
 ---
 
@@ -118,7 +117,7 @@ Revisar e alinhar o Brainstorm e o Mapa Mental com as definições da Sprint ant
 | Item | Descrição | Responsável | Commit | Status |
 |---|---|---|---|---|
 | PB-06 | Revisar o Brainstorm (v2) | BernardoBorghetti | `8dd3001` Doc_visao-v2 / `fc1479c` Brainstorm-v2 | ✅ Concluído |
-| PB-05 | Revisar o Documento de Visão (v2) | BernardoBorghetti | `8dd3001` | ⚠️ Parcial (ver retrospectiva) |
+| PB-05 | Revisar o Documento de Visão (v2) | BernardoBorghetti | `8dd3001` | ✅ Concluído |
 | PB-02 | Atualizar o Mapa Mental | SkyeMel26 | `4189116` alteração do mindmap | ✅ Concluído |
 
 ### 📦 Incremento
